@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/hashima-apple/', // change if you use a different repo name
+  base: '/Hashima-Island-2/', // Must match your repo name exactly (case sensitive)
 })
